@@ -1,0 +1,42 @@
+/* Admin Page Container */
+.admin-page-container {
+    display: flex;
+  }
+  
+  /* Sidebar Styles */
+  .admin-sidebar {
+    width: 200px;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  .admin-sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .admin-sidebar ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Admin Content Styles */
+  .admin-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  /* Button Styles */
+  button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff4500;
+  }
+  

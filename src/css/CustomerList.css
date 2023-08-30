@@ -1,0 +1,12 @@
+.customer-list-container {
+    padding: 20px;
+  }
+  
+  .customer-list-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .customer-list-container .pagination {
+    margin-top: 20px;
+  }
+  
